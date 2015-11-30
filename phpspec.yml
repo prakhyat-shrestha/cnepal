@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: cnepal
+        psr4_prefix: cnepal
+        src_path: app
